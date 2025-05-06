@@ -6,4 +6,6 @@ Estamos estudando sobre o github a partir do tutorial disponibilizado por eles.
 Eu trabalho na Philips
 ## inseri o ramo a
 ramo a
+## inseri o ramo b
+ramo b
 
